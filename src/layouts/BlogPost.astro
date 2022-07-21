@@ -1,0 +1,54 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Navbar.astro";
+import Footer from "../components/Footer.astro";
+import Menu from "../components/Widget.astro";
+
+export interface Props {
+	content: {
+		title: string;
+		description: string;
+		publishDate: string;
+		heroImage?: {
+			src: string;
+			alt: string;
+		};
+	};
+}
+
+const {
+	content: { title, description, publishDate, heroImage },
+} = Astro.props as Props;
+---
+
+<html>
+	<head>
+		<BaseHead title={title} description={description} />
+	</head>
+
+	<body>
+		<Header />
+		<article class="container-fluid">
+			{heroImage && (
+					<img
+						width="100%"
+						height="100%"
+						loading="lazy"
+						src={heroImage.src}
+						alt={heroImage.alt}
+					/>
+				)}
+					<div class="col-md-12 p-3 p-md-5">
+				<h1 class="text-center"><strong><a href="/">{title}</a></strong></h1>
+				<h3 class="text-center mb-5">{description}</h3>
+				<time>{publishDate}</time>
+				<main>
+				<slot></slot>
+			<Menu/>
+				</div>
+			</main>
+		</article>
+		<Footer/>
+	</body>
+</html>
+

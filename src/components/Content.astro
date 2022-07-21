@@ -1,0 +1,8 @@
+<section id="result">Loading...</section>
+		<script>
+			const response = await fetch(`/data/about.json`);
+			const data = await response.json();
+			document.getElementById(
+				"result"
+			).innerHTML = `<section class="mb-5"><h1><a href="/">${data.title}</a></h1><h2>${data.description}</h2><p>${data.content}</p><p><a class="border p-1 border-dark" href="${data.url}">${data.premium}</a> <a class="border p-1 border-dark" href="${data.url1}">${data.hires} !!</a></p></section>`;
+</script>
