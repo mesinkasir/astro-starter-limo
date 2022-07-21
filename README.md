@@ -2,6 +2,8 @@
 
 Free website themes template built with astro
 
+Documentation [https://www.hockeycomputindo.com/2022/07/limousine-website-template-with-astro.html](https://www.hockeycomputindo.com/2022/07/limousine-website-template-with-astro.html)
+
 Demo [https://limousine.netlify.app](https://limousine.netlify.app/)
 
 Themes SSG [https://blackcar.axcora.com](https://blackcar.axcora.com)
@@ -39,3 +41,5 @@ Themes with Svelte Sapper Car [https://limousinewebsite.vercel.app](https://limo
 Themes with Sveltekit [https://cybercar.vercel.app](https://cybercar.vercel.app/)
 
 Themes with Gatsby JS [https://limoweb.vercel.app](https://limoweb.vercel.app)
+
+Documentation [https://www.hockeycomputindo.com/2022/07/limousine-website-template-with-astro.html](https://www.hockeycomputindo.com/2022/07/limousine-website-template-with-astro.html)

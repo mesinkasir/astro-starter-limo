@@ -3,6 +3,7 @@ import BaseHead from "../components/BaseHead.astro";
 import Navbar from "../components/Navbar.astro";
 import Content from "../components/Content.astro";
 import Footer from "../components/Footer.astro";
+import Doc from "../components/Doc.astro";
 import BlogPostPreview from "../components/BlogPostPreview.astro";
 
 let title = "Limousine Website";
@@ -43,6 +44,7 @@ const posts = unsortedPosts.sort(function (a, b) {
 			</article>
 		</main>
 		</div>
+		<Doc/>
 		<Footer/>
 	</body>
 </html>
