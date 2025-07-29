@@ -4,9 +4,6 @@
 
 ### 💖 Thanks for Sponsor 🤞 
 
-<a href="https://www.grandlimoatlanta.com"><img src="https://raw.githubusercontent.com/mesinkasir/markdownuts/refs/heads/main/sponsor.webp" alt="grandlimousine atlanta"/></a>
-<p>Grand Limousine Atlanta offers top-tier luxury limousine and car service in Atlanta, perfect for business travel, airport transfers, special events, and more. <a href="https://www.grandlimoatlanta.com">Visit Site →</a></p>
-
 ----
 
 Free website themes template built with astro
