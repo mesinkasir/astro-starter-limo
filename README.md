@@ -2,13 +2,7 @@
 
 ----
 
-### 💖 Thanks for Sponsor 🤞 
-
-----
-
 Free website themes template built with astro
-
-https://grandlimousine.axcora.com/
 
 Documentation [https://www.hockeycomputindo.com/2022/07/limousine-website-template-with-astro.html](https://www.hockeycomputindo.com/2022/07/limousine-website-template-with-astro.html)
 
@@ -42,8 +36,6 @@ Post Page
 
 Free website themes template built with astro
 
-https://grandlimousine.axcora.com/
-
 Demo [https://limousine.netlify.app](https://limousine.netlify.app/)
 
 Themes SSG [https://blackcar.axcora.com](https://blackcar.axcora.com)
@@ -54,6 +46,5 @@ Themes with Sveltekit [https://cybercar.vercel.app](https://cybercar.vercel.app/
 
 Themes with Gatsby JS [https://limoweb.vercel.app](https://limoweb.vercel.app)
 
-Documentation [https://www.hockeycomputindo.com/2022/07/limousine-website-template-with-astro.html](https://www.hockeycomputindo.com/2022/07/limousine-website-template-with-astro.html)
 
 <a href="https://www.buymeacoffee.com/axcora"><img width="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIA9HMwkK8kr7uRwVNxnhXsLQsJHxQQYVSzqCAaK58OpJOiTlzbIX7eEwS_VpJ3oEG-xrmVEl2WKqGvB_o-KjyBGTbbjFHM_bN2Jce9g3FTnt2ZJViwcvB9DHPOKPEMCl7jTQRVWKPw_ETloH7_CK8Xr09SSNNx22xnfGjViwdEsGtR-yGrLmr-JUGHA/s1090/bmc-button.png"/></a>
