@@ -4,7 +4,7 @@
 
 Free website themes template built with astro
 
-Documentation [https://www.hockeycomputindo.com/2022/07/limousine-website-template-with-astro.html](https://www.hockeycomputindo.com/2022/07/limousine-website-template-with-astro.html)
+Explore all projects: https://www.hockeycomputindo.com
 
 Demo [https://limousine.netlify.app](https://limousine.netlify.app/)
 
@@ -46,5 +46,14 @@ Themes with Sveltekit [https://cybercar.vercel.app](https://cybercar.vercel.app/
 
 Themes with Gatsby JS [https://limoweb.vercel.app](https://limoweb.vercel.app)
 
+---
+### Support Us
 
-<a href="https://www.buymeacoffee.com/axcora"><img width="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIA9HMwkK8kr7uRwVNxnhXsLQsJHxQQYVSzqCAaK58OpJOiTlzbIX7eEwS_VpJ3oEG-xrmVEl2WKqGvB_o-KjyBGTbbjFHM_bN2Jce9g3FTnt2ZJViwcvB9DHPOKPEMCl7jTQRVWKPw_ETloH7_CK8Xr09SSNNx22xnfGjViwdEsGtR-yGrLmr-JUGHA/s1090/bmc-button.png"/></a>
+
+GitHub: https://github.com/sponsors/mesinkasir
+
+PayPal: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN
+
+Gumroad: https://creativitaz.gumroad.com/coffee
+
+Explore all projects: https://www.hockeycomputindo.com
